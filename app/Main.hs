@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Rsdlsb.Init
 
 main :: IO ()
-main = someFunc
+main = run
