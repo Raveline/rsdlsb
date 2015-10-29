@@ -15,7 +15,7 @@ cabal-version:       >=1.10
 
 library
   hs-source-dirs:      src
-  exposed-modules:     Lib
+  exposed-modules:     Rsdlsb.Init
   build-depends:       base >= 4.7 && < 5
                      , sdl2
                      , sdl2-image
